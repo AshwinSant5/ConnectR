@@ -1,0 +1,44 @@
+body {
+  padding: 40px;
+  text-align: center;
+  font-family: verdana;
+}
+
+#me-container {
+  background: ;
+  
+  width: 100%;
+  
+  display: flex;
+  flex-flow: row wrap;
+
+}
+
+.me {
+  background: grey;
+  outline: 2px solid brown;
+  margin: 10px;
+  width: 200px;
+  padding: 40px;
+}
+
+p {
+  font-weight: normal;
+}
+
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  font-size: 28px;
+  margin-bottom: 50px;
+}
+
+@media all {
+  body {
+    color: #F7FFF7;
+    background-color: #292F36;
+  }
